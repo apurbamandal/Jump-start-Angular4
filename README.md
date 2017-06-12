@@ -7,7 +7,7 @@ Install node and then run `npm install –g @angular/cli` command to install ang
 
 For angular-cli usage : [Angular-cli](https://github.com/angular/angular-cli/wiki)
 
-## Recomended IDE :  
+## Recommended IDE :  
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
