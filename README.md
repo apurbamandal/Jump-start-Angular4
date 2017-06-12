@@ -13,4 +13,4 @@ For angular-cli usage : [Angular-cli](https://github.com/angular/angular-cli/wik
 
 ## Usage : 
 
-After installing angular-cli, go to the project and run `npm install` and then `ng serve` command to serve this project on localhost.
+After installing angular-cli, go to the project and run `npm install` and then `ng serve` command to serve this project on `localhost:4200`.
